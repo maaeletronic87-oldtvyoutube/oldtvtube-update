@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 11,
-  "latest_version_name": "2.1",
-  "apk_url": "",
-  "message": "OldTVTube is up to date.",
+  "latest_version_code": 14,
+  "latest_version_name": "2.5",
+  "apk_url": "https://github.com/maaelectronic87-oldtvyoutube/oldtvtube-update/releases/download/v2.5/OldTVTube_v2_5_release.apk",
+  "message": "OldTVTube v2.5 update available. About, version and update system added.",
   "force_update": false
 }
